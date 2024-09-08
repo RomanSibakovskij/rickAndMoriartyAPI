@@ -1,4 +1,4 @@
-# rickAndMoriartyAPI
+# rickAndMortyAPI
 
 ## API Documentation
 
